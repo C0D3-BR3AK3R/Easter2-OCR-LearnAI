@@ -4,3 +4,5 @@ matplotlib
 editdistance
 taco-box
 tqdm
+transformers
+tf-keras
